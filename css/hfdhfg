@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  width: 1024px;
+  max-width: 100%;
+  margin-left: auto;
+  padding: 75px 0;
+}
+header ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+main {
+  width: 1024px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+article {
+  width: 50px;
+  float: left;
+  padding: 0 31px;
+}
+article img {
+  width: 100%;
+}
